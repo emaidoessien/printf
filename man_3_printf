@@ -1,6 +1,6 @@
-.TH _PRINTF 3  "0x11. C - _printf"
+.TH _PRINTF 3  "Holberton School 0x11. C - _printf"
 
-v.SH NAME
+.SH NAME
 .B _printf\fR \- formatted output conversion
 
 .SH SYNOPSIS
@@ -282,3 +282,4 @@ function \fBprintf()\fR. This man page borrows from the corresponding Linux
 man page printf(3).
 
 .SH AUTHOR
+Ejiofor Sanctus && Mahadi Abuhuraira
